@@ -1,0 +1,7 @@
+com\servlet\main\Utils.class
+com\servlet\main\Validators\MainValidator.class
+com\servlet\main\FilterUTF.class
+com\servlet\main\Controller\PersonServlets\PersonServlet.class
+com\servlet\main\Controller\PersonServlets\PersonsServlet.class
+com\servlet\main\Model\Person.class
+com\servlet\main\Service\PersonService.class
